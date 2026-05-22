@@ -4,8 +4,7 @@
 
 All Rights Reserved
 
-Copyright (c) The Create Team / The Creators of Create
-
+Copyright (c) Morgster952
 
 ---
 
@@ -15,7 +14,7 @@ All other files are licensed under the MIT License:
 
 MIT License
 
-Copyright (c) The Create Team / The Creators of Create
+Copyright (c) Morgster952 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,4 +32,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. 
+(please note this addon is not affiliated in any way with the Creators of the Create Mod)
